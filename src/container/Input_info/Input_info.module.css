@@ -1,0 +1,28 @@
+.Input{
+    margin-top: 50px;
+    text-align: left;
+    margin-left: 20px;
+    
+    
+}
+
+
+
+.Add{
+    color: black;
+    background-size: 20px;
+    box-sizing: border-box;
+    background-color: orange;
+    font-size:  20px;
+    
+}
+.Header{
+    display:auto;
+    width:100%;
+    background-color: black;
+    color:white;
+    padding:5px 15px;
+    font-size: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
